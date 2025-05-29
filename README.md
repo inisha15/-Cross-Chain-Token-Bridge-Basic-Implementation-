@@ -35,4 +35,4 @@ npx hardhat run scripts/deploy.js --network <network>
 
 ## Contract details
 0xD5DDe2F536ad78591e8826734D1a22012ea31983![alt text](image.png)
-project made my Kajal Solanki
+project made my Nisha 
