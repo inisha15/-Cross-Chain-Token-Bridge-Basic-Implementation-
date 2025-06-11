@@ -8,7 +8,9 @@ A basic cross-chain token bridge that allows users to lock tokens on one chain a
 
 Enable simple cross-chain transfers of tokens using a lock-and-mint (or lock-and-release) mechanism. This foundation can evolve into a multi-chain interoperability protocol.
 
+
 ## 🔑 Key Features
+
 
 - Lock tokens on origin chain
 - Emit events for off-chain relay
