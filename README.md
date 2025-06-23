@@ -17,7 +17,9 @@ Enable simple cross-chain transfers of tokens using a lock-and-mint (or lock-and
 - Owner can release tokens on destination chain
 - Protects against double-processing with txHash tracking
 
+
 ## 🚀 Future Scope
+
 
 - Two-way bridge support
 - Decentralized relayers
