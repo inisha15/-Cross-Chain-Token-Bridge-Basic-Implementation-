@@ -2,7 +2,6 @@
 
 ## 🧠 Project Description
 
-
 A basic cross-chain token bridge that allows users to lock tokens on one chain and release them on another. Designed for one-way bridging using off-chain event listeners.
 
 
