@@ -17,7 +17,6 @@ Enable simple cross-chain transfers of tokens using a lock-and-mint (or lock-and
 
 ## 🚀 Future Scope
 
-
 - Two-way bridge support
 - Decentralized relayers
 - Oracle integration for automated validation
