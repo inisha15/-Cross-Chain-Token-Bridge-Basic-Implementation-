@@ -10,6 +10,7 @@ Enable simple cross-chain transfers of tokens using a lock-and-mint (or lock-and
 
 ## 🔑 Key Features
 
+
 - Lock tokens on origin chain
 - Emit events for off-chain relay
 - Owner can release tokens on destination chain
