@@ -4,7 +4,6 @@
 
 A basic cross-chain token bridge that allows users to lock tokens on one chain and release them on another. Designed for one-way bridging using off-chain event listeners
 
-
 ## 🌍 Project Vision
 
 Enable simple cross-chain transfers of tokens using a lock-and-mint (or lock-and-release) mechanism. This foundation can evolve into a multi-chain interoperability protocol.
