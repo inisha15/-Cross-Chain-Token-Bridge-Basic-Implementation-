@@ -27,6 +27,7 @@ Enable simple cross-chain transfers of tokens using a lock-and-mint (or lock-and
 
 ```bash
 
+
 npm install
 npx hardhat compile
 npx hardhat run scripts/deploy.js --network <network>
